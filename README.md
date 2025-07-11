@@ -21,6 +21,9 @@ docker-compose up -d
 go run cmd/consumer/main.go
 go run cmd/producer/main.go
 
+
+```
+
 ## 📈 Metrics Exposed
 
 The following metrics are exposed via Prometheus:
